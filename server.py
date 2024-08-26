@@ -35,8 +35,10 @@ def verify_face():
                     'known_image': known_image_name,
                     'result': result
                 })
+        except ValueError as e:
+            return jsonify({'error': 'Verification error: ' + str(e)}), 500
         except Exception as e:
-            return jsonify({'error': str(e)}), 500
+            return jsonify({'error': 'Unexpected error: ' + str(e)}), 500
 
     if not results:
         return jsonify({'message': 'No match found'}), 404
@@ -44,4 +46,5 @@ def verify_face():
     return jsonify({'matches': results})
 
 if __name__ == "__main__":
+    # Use 0.0.0.0 to make the server accessible externally on your local network
     app.run(host='0.0.0.0', port=7000)
