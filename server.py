@@ -46,5 +46,4 @@ def verify_face():
     return jsonify({'matches': results})
 
 if __name__ == "__main__":
-    # Use 0.0.0.0 to make the server accessible externally on your local network
     app.run(host='0.0.0.0', port=7000)
