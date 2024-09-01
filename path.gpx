@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>path</name>
+    <time>2024-08-27T09:08:58Z</time>
+  </metadata>
+  <trk>
+    <name>LT</name>
+    <trkseg>
+      <trkpt lat="5.116716" lon="-1.292261">
+        <ele>20.5</ele>
+        <time>2024-08-27T10:26:16Z</time>
+      </trkpt>
+      <trkpt lat="5.116773" lon="-1.292426">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:26:36Z</time>
+      </trkpt>
+      <trkpt lat="5.116776" lon="-1.292506">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:26:43Z</time>
+      </trkpt>
+      <trkpt lat="5.116794" lon="-1.292580">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:26:49Z</time>
+      </trkpt>
+      <trkpt lat="5.116866" lon="-1.292765">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:27:05Z</time>
+      </trkpt>
+      <trkpt lat="5.116877" lon="-1.292836">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:12Z</time>
+      </trkpt>
+      <trkpt lat="5.116940" lon="-1.292963">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:24Z</time>
+      </trkpt>
+      <trkpt lat="5.116991" lon="-1.293017">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:30Z</time>
+      </trkpt>
+      <trkpt lat="5.117051" lon="-1.293054">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:36Z</time>
+      </trkpt>
+      <trkpt lat="5.117072" lon="-1.293078">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:39Z</time>
+      </trkpt>
+      <trkpt lat="5.117096" lon="-1.293180">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:48Z</time>
+      </trkpt>
+      <trkpt lat="5.117124" lon="-1.293214">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:50Z</time>
+      </trkpt>
+      <trkpt lat="5.117160" lon="-1.293238">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:27:53Z</time>
+      </trkpt>
+      <trkpt lat="5.117178" lon="-1.293271">
+        <ele>22.0</ele>
+        <time>2024-08-27T10:27:55Z</time>
+      </trkpt>
+      <trkpt lat="5.117106" lon="-1.293274">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:28:04Z</time>
+      </trkpt>
+      <trkpt lat="5.117069" lon="-1.293293">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:28:08Z</time>
+      </trkpt>
+      <trkpt lat="5.116979" lon="-1.293453">
+        <ele>22.0</ele>
+        <time>2024-08-27T10:28:21Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Lt to g block</name>
+    <trkseg>
+      <trkpt lat="5.117214" lon="-1.293206">
+        <ele>22.0</ele>
+        <time>2024-08-27T10:36:55Z</time>
+      </trkpt>
+      <trkpt lat="5.117238" lon="-1.293208">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:37:01Z</time>
+      </trkpt>
+      <trkpt lat="5.117342" lon="-1.293153">
+        <ele>21.0</ele>
+        <time>2024-08-27T10:37:13Z</time>
+      </trkpt>
+      <trkpt lat="5.117410" lon="-1.293143">
+        <ele>21.1</ele>
+        <time>2024-08-27T10:37:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Shuttle station to llt </name>
+    <trkseg>
+      <trkpt lat="5.116668" lon="-1.292287">
+        <ele>20.3</ele>
+        <time>2024-08-27T09:58:30Z</time>
+      </trkpt>
+      <trkpt lat="5.116669" lon="-1.292298">
+        <ele>20.3</ele>
+        <time>2024-08-27T09:58:33Z</time>
+      </trkpt>
+      <trkpt lat="5.116733" lon="-1.292351">
+        <ele>20.0</ele>
+        <time>2024-08-27T09:58:42Z</time>
+      </trkpt>
+      <trkpt lat="5.116770" lon="-1.292459">
+        <ele>20.0</ele>
+        <time>2024-08-27T09:58:53Z</time>
+      </trkpt>
+      <trkpt lat="5.116779" lon="-1.292548">
+        <ele>21.4</ele>
+        <time>2024-08-27T09:59:02Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>C. A Ackah Lecture Theatre (CALC) crossing to New Examination Centre, CP, Ghana</name>
+    <trkseg>
+      <trkpt lat="5.119632" lon="-1.292823">
+        <ele>13.2</ele>
+        <time>2024-08-27T10:49:13Z</time>
+      </trkpt>
+      <trkpt lat="5.119600" lon="-1.292821">
+        <ele>13.2</ele>
+        <time>2024-08-27T10:49:18Z</time>
+      </trkpt>
+      <trkpt lat="5.119615" lon="-1.292888">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:49:23Z</time>
+      </trkpt>
+      <trkpt lat="5.119650" lon="-1.292956">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:49:28Z</time>
+      </trkpt>
+      <trkpt lat="5.119740" lon="-1.293022">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:49:38Z</time>
+      </trkpt>
+      <trkpt lat="5.119850" lon="-1.293065">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:49:48Z</time>
+      </trkpt>
+      <trkpt lat="5.119933" lon="-1.293130">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:49:58Z</time>
+      </trkpt>
+      <trkpt lat="5.120149" lon="-1.293242">
+        <ele>10.0</ele>
+        <time>2024-08-27T10:50:17Z</time>
+      </trkpt>
+      <trkpt lat="5.120300" lon="-1.293293">
+        <ele>8.0</ele>
+        <time>2024-08-27T10:50:33Z</time>
+      </trkpt>
+      <trkpt lat="5.120395" lon="-1.293339">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:50:42Z</time>
+      </trkpt>
+      <trkpt lat="5.120460" lon="-1.293356">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:50:48Z</time>
+      </trkpt>
+      <trkpt lat="5.120573" lon="-1.293425">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:50:59Z</time>
+      </trkpt>
+      <trkpt lat="5.120608" lon="-1.293536">
+        <ele>11.5</ele>
+        <time>2024-08-27T10:51:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tuesday Morning Walking</name>
+    <trkseg>
+      <trkpt lat="5.116569" lon="-1.292189">
+        <ele>18.6</ele>
+        <time>2024-08-27T10:00:53Z</time>
+      </trkpt>
+      <trkpt lat="5.116731" lon="-1.292248">
+        <ele>20.3</ele>
+        <time>2024-08-27T10:01:12Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Calc road to calc 1</name>
+    <trkseg>
+      <trkpt lat="5.118594" lon="-1.292634">
+        <ele>15.8</ele>
+        <time>2024-08-27T10:42:28Z</time>
+      </trkpt>
+      <trkpt lat="5.118633" lon="-1.292615">
+        <ele>15.0</ele>
+        <time>2024-08-27T10:42:32Z</time>
+      </trkpt>
+      <trkpt lat="5.118881" lon="-1.292588">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:42:52Z</time>
+      </trkpt>
+      <trkpt lat="5.119025" lon="-1.292551">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:43:04Z</time>
+      </trkpt>
+      <trkpt lat="5.119103" lon="-1.292549">
+        <ele>14.2</ele>
+        <time>2024-08-27T10:43:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>College of Distance Education to New Lecture Theatre (NLT), CP, Ghana</name>
+    <trkseg>
+      <trkpt lat="5.121347" lon="-1.294762">
+        <ele>11.2</ele>
+        <time>2024-08-27T10:56:06Z</time>
+      </trkpt>
+      <trkpt lat="5.121333" lon="-1.294773">
+        <ele>11.0</ele>
+        <time>2024-08-27T10:56:08Z</time>
+      </trkpt>
+      <trkpt lat="5.121292" lon="-1.294872">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:56:15Z</time>
+      </trkpt>
+      <trkpt lat="5.121284" lon="-1.295174">
+        <ele>8.0</ele>
+        <time>2024-08-27T10:56:38Z</time>
+      </trkpt>
+      <trkpt lat="5.121295" lon="-1.295289">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:56:47Z</time>
+      </trkpt>
+      <trkpt lat="5.121274" lon="-1.295560">
+        <ele>10.0</ele>
+        <time>2024-08-27T10:57:09Z</time>
+      </trkpt>
+      <trkpt lat="5.121258" lon="-1.295596">
+        <ele>8.0</ele>
+        <time>2024-08-27T10:57:12Z</time>
+      </trkpt>
+      <trkpt lat="5.121266" lon="-1.295629">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:57:15Z</time>
+      </trkpt>
+      <trkpt lat="5.121333" lon="-1.295715">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:57:24Z</time>
+      </trkpt>
+      <trkpt lat="5.121366" lon="-1.295736">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:57:27Z</time>
+      </trkpt>
+      <trkpt lat="5.121447" lon="-1.295738">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:57:33Z</time>
+      </trkpt>
+      <trkpt lat="5.121565" lon="-1.295793">
+        <ele>11.0</ele>
+        <time>2024-08-27T10:57:47Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Lt21 to 20</name>
+    <trkseg>
+      <trkpt lat="5.116930" lon="-1.293506">
+        <ele>22.5</ele>
+        <time>2024-08-27T10:29:04Z</time>
+      </trkpt>
+      <trkpt lat="5.116941" lon="-1.293508">
+        <ele>22.1</ele>
+        <time>2024-08-27T10:29:07Z</time>
+      </trkpt>
+      <trkpt lat="5.116938" lon="-1.293522">
+        <ele>23.0</ele>
+        <time>2024-08-27T10:29:08Z</time>
+      </trkpt>
+      <trkpt lat="5.116932" lon="-1.293520">
+        <ele>22.3</ele>
+        <time>2024-08-27T10:29:09Z</time>
+      </trkpt>
+      <trkpt lat="5.116916" lon="-1.293564">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:29:15Z</time>
+      </trkpt>
+      <trkpt lat="5.116827" lon="-1.293699">
+        <ele>22.6</ele>
+        <time>2024-08-27T10:29:37Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tuesday Morning Hiking</name>
+    <trkseg>
+      <trkpt lat="5.110926" lon="-1.293154">
+        <ele>13.1</ele>
+        <time>2024-08-27T09:29:34Z</time>
+      </trkpt>
+      <trkpt lat="5.110968" lon="-1.293210">
+        <ele>12.0</ele>
+        <time>2024-08-27T09:29:43Z</time>
+      </trkpt>
+      <trkpt lat="5.110994" lon="-1.293218">
+        <ele>10.0</ele>
+        <time>2024-08-27T09:29:47Z</time>
+      </trkpt>
+      <trkpt lat="5.111012" lon="-1.293248">
+        <ele>12.0</ele>
+        <time>2024-08-27T09:29:51Z</time>
+      </trkpt>
+      <trkpt lat="5.111032" lon="-1.293320">
+        <ele>13.3</ele>
+        <time>2024-08-27T09:30:02Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>G block to calc road</name>
+    <trkseg>
+      <trkpt lat="5.117422" lon="-1.293202">
+        <ele>21.5</ele>
+        <time>2024-08-27T10:39:10Z</time>
+      </trkpt>
+      <trkpt lat="5.117440" lon="-1.293197">
+        <ele>21.4</ele>
+        <time>2024-08-27T10:39:15Z</time>
+      </trkpt>
+      <trkpt lat="5.117470" lon="-1.293209">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:39:18Z</time>
+      </trkpt>
+      <trkpt lat="5.117538" lon="-1.293186">
+        <ele>20.0</ele>
+        <time>2024-08-27T10:39:26Z</time>
+      </trkpt>
+      <trkpt lat="5.117876" lon="-1.293163">
+        <ele>19.0</ele>
+        <time>2024-08-27T10:39:59Z</time>
+      </trkpt>
+      <trkpt lat="5.118225" lon="-1.293070">
+        <ele>17.0</ele>
+        <time>2024-08-27T10:40:32Z</time>
+      </trkpt>
+      <trkpt lat="5.118281" lon="-1.293040">
+        <ele>15.0</ele>
+        <time>2024-08-27T10:40:39Z</time>
+      </trkpt>
+      <trkpt lat="5.118424" lon="-1.293016">
+        <ele>16.0</ele>
+        <time>2024-08-27T10:40:49Z</time>
+      </trkpt>
+      <trkpt lat="5.118489" lon="-1.292985">
+        <ele>16.0</ele>
+        <time>2024-08-27T10:40:55Z</time>
+      </trkpt>
+      <trkpt lat="5.118565" lon="-1.292921">
+        <ele>15.0</ele>
+        <time>2024-08-27T10:41:04Z</time>
+      </trkpt>
+      <trkpt lat="5.118615" lon="-1.292853">
+        <ele>15.0</ele>
+        <time>2024-08-27T10:41:10Z</time>
+      </trkpt>
+      <trkpt lat="5.118630" lon="-1.292817">
+        <ele>16.0</ele>
+        <time>2024-08-27T10:41:13Z</time>
+      </trkpt>
+      <trkpt lat="5.118604" lon="-1.292715">
+        <ele>15.0</ele>
+        <time>2024-08-27T10:41:23Z</time>
+      </trkpt>
+      <trkpt lat="5.118609" lon="-1.292630">
+        <ele>15.9</ele>
+        <time>2024-08-27T10:41:35Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>New Examination Centre to crossing</name>
+    <trkseg>
+      <trkpt lat="5.120619" lon="-1.293453">
+        <ele>11.1</ele>
+        <time>2024-08-27T10:52:07Z</time>
+      </trkpt>
+      <trkpt lat="5.120733" lon="-1.293448">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:52:16Z</time>
+      </trkpt>
+      <trkpt lat="5.120939" lon="-1.293480">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:52:34Z</time>
+      </trkpt>
+      <trkpt lat="5.120965" lon="-1.293490">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:52:37Z</time>
+      </trkpt>
+      <trkpt lat="5.121007" lon="-1.293544">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:52:44Z</time>
+      </trkpt>
+      <trkpt lat="5.121116" lon="-1.293613">
+        <ele>8.0</ele>
+        <time>2024-08-27T10:52:56Z</time>
+      </trkpt>
+      <trkpt lat="5.121124" lon="-1.293828">
+        <ele>8.0</ele>
+        <time>2024-08-27T10:53:15Z</time>
+      </trkpt>
+      <trkpt lat="5.121159" lon="-1.294095">
+        <ele>10.2</ele>
+        <time>2024-08-27T10:53:43Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tuesday Morning Walking</name>
+    <trkseg>
+      <trkpt lat="5.110654" lon="-1.293842">
+        <ele>12.0</ele>
+        <time>2024-08-27T09:07:31Z</time>
+      </trkpt>
+      <trkpt lat="5.110687" lon="-1.293800">
+        <ele>9.0</ele>
+        <time>2024-08-27T09:07:49Z</time>
+      </trkpt>
+      <trkpt lat="5.110676" lon="-1.293817">
+        <ele>10.0</ele>
+        <time>2024-08-27T09:07:57Z</time>
+      </trkpt>
+      <trkpt lat="5.110646" lon="-1.293818">
+        <ele>11.6</ele>
+        <time>2024-08-27T09:08:15Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Calc to education car park</name>
+    <trkseg>
+      <trkpt lat="5.119118" lon="-1.292524">
+        <ele>14.3</ele>
+        <time>2024-08-27T10:44:57Z</time>
+      </trkpt>
+      <trkpt lat="5.119083" lon="-1.292580">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:45:05Z</time>
+      </trkpt>
+      <trkpt lat="5.119076" lon="-1.292695">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:45:14Z</time>
+      </trkpt>
+      <trkpt lat="5.119095" lon="-1.292803">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:45:24Z</time>
+      </trkpt>
+      <trkpt lat="5.119079" lon="-1.292929">
+        <ele>11.0</ele>
+        <time>2024-08-27T10:45:38Z</time>
+      </trkpt>
+      <trkpt lat="5.119168" lon="-1.292928">
+        <ele>13.0</ele>
+        <time>2024-08-27T10:45:46Z</time>
+      </trkpt>
+      <trkpt lat="5.119219" lon="-1.292910">
+        <ele>13.5</ele>
+        <time>2024-08-27T10:45:51Z</time>
+      </trkpt>
+      <trkpt lat="5.119251" lon="-1.292915">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:45:53Z</time>
+      </trkpt>
+      <trkpt lat="5.119386" lon="-1.292890">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:46:03Z</time>
+      </trkpt>
+      <trkpt lat="5.119461" lon="-1.292865">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:46:11Z</time>
+      </trkpt>
+      <trkpt lat="5.119568" lon="-1.292860">
+        <ele>12.0</ele>
+        <time>2024-08-27T10:46:20Z</time>
+      </trkpt>
+      <trkpt lat="5.119649" lon="-1.292843">
+        <ele>13.1</ele>
+        <time>2024-08-27T10:46:30Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Crossing to code</name>
+    <trkseg>
+      <trkpt lat="5.121167" lon="-1.294099">
+        <ele>10.2</ele>
+        <time>2024-08-27T10:54:28Z</time>
+      </trkpt>
+      <trkpt lat="5.121207" lon="-1.294528">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:55:05Z</time>
+      </trkpt>
+      <trkpt lat="5.121204" lon="-1.294686">
+        <ele>10.9</ele>
+        <time>2024-08-27T10:55:18Z</time>
+      </trkpt>
+      <trkpt lat="5.121218" lon="-1.294748">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:55:26Z</time>
+      </trkpt>
+      <trkpt lat="5.121305" lon="-1.294768">
+        <ele>9.0</ele>
+        <time>2024-08-27T10:55:33Z</time>
+      </trkpt>
+      <trkpt lat="5.121363" lon="-1.294766">
+        <ele>11.2</ele>
+        <time>2024-08-27T10:55:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

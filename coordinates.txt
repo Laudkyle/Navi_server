@@ -1,0 +1,211 @@
+﻿<coordinates>
+<ID>1</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 1</Name>
+<Output>Lat: 5.116694, Lng: -1.292122</Output>
+<LatLngData>5.116694144915327,-1.2921220064163208,0.005,0.005</LatLngData>
+
+<ID>2</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 2</Name>
+<Output>Lat: 5.116710, Lng: -1.292169</Output>
+<LatLngData>5.116709840099476,-1.2921689450740814,0.005,0.005</LatLngData>
+
+<ID>3</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 3</Name>
+<Output>Lat: 5.116723, Lng: -1.292222</Output>
+<LatLngData>5.1167228637626385,-1.2922222539782524,0.005,0.005</LatLngData>
+
+<ID>4</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 4</Name>
+<Output>Lat: 5.116737, Lng: -1.292278</Output>
+<LatLngData>5.116736889245743,-1.2922775745391846,0.005,0.005</LatLngData>
+
+<ID>5</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 5</Name>
+<Output>Lat: 5.116742, Lng: -1.292292</Output>
+<LatLngData>5.116742232286829,-1.2922919914126396,0.005,0.005</LatLngData>
+
+<ID>6</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 6</Name>
+<Output>Lat: 5.116757, Lng: -1.292323</Output>
+<LatLngData>5.116756925649624,-1.2923228368163109,0.005,0.005</LatLngData>
+
+<ID>7</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 7</Name>
+<Output>Lat: 5.116778, Lng: -1.292373</Output>
+<LatLngData>5.11677829781309,-1.2923731282353401,0.005,0.005</LatLngData>
+
+<ID>8</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 8</Name>
+<Output>Lat: 5.116800, Lng: -1.292421</Output>
+<LatLngData>5.116799669975856,-1.2924214079976082,0.005,0.005</LatLngData>
+
+<ID>9</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 9</Name>
+<Output>Lat: 5.116826, Lng: -1.292484</Output>
+<LatLngData>5.116826051238259,-1.2924844399094582,0.005,0.005</LatLngData>
+
+<ID>10</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 10</Name>
+<Output>Lat: 5.116838, Lng: -1.292522</Output>
+<LatLngData>5.1168380730789975,-1.2925219908356667,0.005,0.005</LatLngData>
+
+<ID>11</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 11</Name>
+<Output>Lat: 5.116847, Lng: -1.292552</Output>
+<LatLngData>5.116846755519375,-1.2925518304109573,0.005,0.005</LatLngData>
+
+<ID>12</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 12</Name>
+<Output>Lat: 5.116859, Lng: -1.292580</Output>
+<LatLngData>5.116858777359732,-1.2925796583294868,0.005,0.005</LatLngData>
+
+<ID>13</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 13</Name>
+<Output>Lat: 5.116870, Lng: -1.292613</Output>
+<LatLngData>5.116870131319851,-1.292613185942173,0.005,0.005</LatLngData>
+
+<ID>14</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 14</Name>
+<Output>Lat: 5.116886, Lng: -1.292658</Output>
+<LatLngData>5.116885826499688,-1.2926581129431725,0.005,0.005</LatLngData>
+
+<ID>15</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 15</Name>
+<Output>Lat: 5.116895, Lng: -1.292689</Output>
+<LatLngData>5.116894842879428,-1.2926892936229706,0.005,0.005</LatLngData>
+
+<ID>16</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 16</Name>
+<Output>Lat: 5.116908, Lng: -1.292724</Output>
+<LatLngData>5.116907866538811,-1.2927241623401642,0.005,0.005</LatLngData>
+
+<ID>17</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 17</Name>
+<Output>Lat: 5.116920, Lng: -1.292755</Output>
+<LatLngData>5.116920222317982,-1.2927546724677086,0.005,0.005</LatLngData>
+
+<ID>18</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 18</Name>
+<Output>Lat: 5.116933, Lng: -1.292788</Output>
+<LatLngData>5.116932912036897,-1.2927882000803947,0.005,0.005</LatLngData>
+
+<ID>19</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 19</Name>
+<Output>Lat: 5.116944, Lng: -1.292823</Output>
+<LatLngData>5.116943932055734,-1.2928227335214615,0.005,0.005</LatLngData>
+
+<ID>20</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 20</Name>
+<Output>Lat: 5.116956, Lng: -1.292858</Output>
+<LatLngData>5.116955953894259,-1.292857937514782,0.005,0.005</LatLngData>
+
+<ID>21</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 21</Name>
+<Output>Lat: 5.116968, Lng: -1.292897</Output>
+<LatLngData>5.116968309672501,-1.292896829545498,0.005,0.005</LatLngData>
+
+<ID>22</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 22</Name>
+<Output>Lat: 5.116985, Lng: -1.292936</Output>
+<LatLngData>5.116984672729815,-1.2929363921284676,0.005,0.005</LatLngData>
+
+<ID>23</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 23</Name>
+<Output>Lat: 5.116999, Lng: -1.292974</Output>
+<LatLngData>5.1169990321471035,-1.292974278330803,0.005,0.005</LatLngData>
+
+<ID>24</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 24</Name>
+<Output>Lat: 5.117003, Lng: -1.292993</Output>
+<LatLngData>5.117002705486368,-1.2929930537939072,0.005,0.005</LatLngData>
+
+<ID>25</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 25</Name>
+<Output>Lat: 5.117038, Lng: -1.293035</Output>
+<LatLngData>5.117038103118117,-1.2930349633097649,0.005,0.005</LatLngData>
+
+<ID>26</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 26</Name>
+<Output>Lat: 5.117095, Lng: -1.293104</Output>
+<LatLngData>5.117094538960917,-1.2931043654680252,0.005,0.005</LatLngData>
+
+<ID>27</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 27</Name>
+<Output>Lat: 5.117144, Lng: -1.293163</Output>
+<LatLngData>5.117143628121905,-1.2931627035140991,0.005,0.005</LatLngData>
+
+<ID>28</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 28</Name>
+<Output>Lat: 5.117163, Lng: -1.293190</Output>
+<LatLngData>5.117163330573232,-1.293189525604248,0.005,0.005</LatLngData>
+
+<ID>29</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 29</Name>
+<Output>Lat: 5.117193, Lng: -1.293223</Output>
+<LatLngData>5.117193385158792,-1.293223388493061,0.005,0.005</LatLngData>
+
+<ID>30</ID>
+<TypeID>DEGREE1</TypeID>
+<Type>Degree 1</Type>
+<Name>No: 30</Name>
+<Output>Lat: 5.117199, Lng: -1.293227</Output>
+<LatLngData>5.11719939607574,-1.2932274118065834,0.005,0.005</LatLngData>
+</coordinates>
